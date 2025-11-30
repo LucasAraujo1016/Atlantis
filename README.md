@@ -1,5 +1,11 @@
 # Atlantis
 
+## Resumo da Atividade
+
+Após o sucesso inicial do sistema Atlantis, foi identificado que a interface CLI se tornaria rapidamente obsoleta e pouco intuitiva para os usuários finais. Com base em um relatório da equipe de marketing e vendas, decidiu-se evoluir o sistema para uma aplicação web moderna, utilizando o conceito de Single Page Application (SPA). 
+
+Esta etapa do projeto consistiu no desenvolvimento de um protótipo navegável da interface gráfica, implementado em React + TypeScript, visando melhor usabilidade e compatibilidade com as expectativas dos clientes. O protótipo contempla todas as funcionalidades já presentes no sistema CLI, incluindo o CRUD de clientes (hóspedes), cadastro de acomodações e registro de hospedagens.
+
 ## Descrição
 
 Aplicação web para gerenciamento de clientes e hospedagens, desenvolvida em React + TypeScript.
