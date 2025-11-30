@@ -1,5 +1,9 @@
 # Atlantis
 
+## Resumo da Atividade
+
+Este projeto foi desenvolvido como parte da concepção do sistema Atlantis, um MVP (Minimum Viable Product) para a Ocean Solutions, empresa focada em soluções para gestão de parques aquáticos, clubes e hotéis. O objetivo inicial foi criar um módulo para cadastro de clientes e seus dependentes, aplicando o padrão de projeto Protótipo para garantir que os dados de endereço e telefone dos dependentes sejam iguais aos do responsável. A implementação do padrão já estava pronta para a classe Endereço e, nesta atividade, foi concluída para a classe Telefone.
+
 ## Descrição
 
 Projeto em TypeScript para gerenciamento de clientes, documentos, endereços e telefones.
