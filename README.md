@@ -1,5 +1,13 @@
 # Atlantis
 
+## Resumo da Atividade
+
+Nesta etapa do desenvolvimento do sistema Atlantis, o foco foi aprimorar o MVP a partir do feedback de clientes, incluindo o cadastro e gerenciamento de hospedagens. Para isso, foi implementada a classe “Acomodações”, representando diferentes tipos de quartos em hotéis, pousadas ou resorts, com suas respectivas configurações (quantidade de camas, suítes, climatização, garagem, etc.). 
+
+O padrão de projeto **Builder** foi utilizado para facilitar a criação de diferentes tipos de acomodações, por meio de classes diretoras específicas para cada configuração (ex: Solteiro Simples, Casal Simples, Família Mais, etc.). Além disso, foram desenvolvidas as estruturas e lógicas necessárias para controlar as hospedagens, permitindo registrar hóspedes e vinculá-los às acomodações disponíveis.
+
+Com essas melhorias, o sistema Atlantis se aproxima de um produto mínimo viável, pronto para ser comercializado.
+
 ## Descrição
 
 Projeto em TypeScript para gerenciamento de acomodações, clientes, documentos, endereços e telefones.
